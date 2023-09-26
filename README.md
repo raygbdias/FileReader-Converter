@@ -12,17 +12,12 @@ FileReader is a command-line utility that offers basic functionalities for conve
 
 2. **Requirements:** Ensure you have [`.NET Core SDK`](https://dotnet.microsoft.com/download) installed on your system.
 
-3. **Setup:** Open a terminal and navigate to the SimpleDataTool project directory.
+3. **Setup:** Open the solution on your IDE of choice.
 
-4. **Build the Project:** Run the following command to build the project:
-```shell
- dotnet build
-```
-5. **Run the Application:** Execute the following command to start the FileReader-Converter, enter the MoviesAndCustomers to run the following command:
-```shell
- dotnet run
-```
-- If you prefer you can use an IDE of your choice
+4. **Build the Project:** Build the project on the IDE.
+
+5. **Run the Application:** Execute the project on your IDE and wait for the terminal to pop Up.
+
 6. **Usage:** Upon running the application, follow the prompts to perform different operations:
 
 - To convert from a tab file to XML, type `1`.
